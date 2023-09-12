@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Ellis Cain"
 ---
 
 <style type="text/css">
@@ -14,6 +14,17 @@ img {
 
 <div class="row" style="text-align: center; padding-top: 50px; padding-right: 20px;padding-left: 20px">
 
+# Ellis Cain
+
+<img src="img/cain_img.jpg" alt="photo" width="200" height="200" style="float:center">
+
+</div>
+
+
+<div class="row" style="text-align: justify; text-justify: inter-word;  padding-top: 2px;padding-right: 20px;padding-left: 20px">
+
 ## Academic bio
 
-I am a PhD student in the Cognitive and Informational Sciences program at UC Merced. I am currently working in Dr. Rachel Ryskin's [Language, Interaction, and Cognition Lab](https://linclab0.github.io/). I completed my undergrad at Indiana University in Cognitive Science (B.S.) and East Asian Languages and Culture (Chinese, B.A.). I worked and continue to collaborate in Dr. Chen Yu's [Developmental Intelligence Lab](https://www.la.utexas.edu/users/dil/). I am interested in using NLP methods to explore cognitive science topics like semantic representation and language acquisition.
+I am a PhD student in the [Cognitive and Informational Sciences](https://cogsci.ucmerced.edu) program at UC Merced. I am currently working in Dr. Rachel Ryskin's [Language, Interaction, and Cognition Lab](https://linclab0.github.io/). I completed my undergrad at Indiana University in Cognitive Science (B.S.) and East Asian Languages and Culture (Chinese, B.A.). I worked and continue to collaborate in Dr. Chen Yu's [Developmental Intelligence Lab](https://www.la.utexas.edu/users/dil/). I am interested in using NLP methods to explore cognitive science topics like semantic representation and language acquisition.
+
+</div>
