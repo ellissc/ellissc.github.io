@@ -1,0 +1,14 @@
+name: "ellis-cain"
+output_dir: "."
+navbar:
+  title: "Ellis Cain"
+  left:
+    - text: "About"
+      href: index.html
+    - text: "Papers"
+      href: papers.html
+    - text: "Presentations"
+      href: presentations.html
+output:
+  html_document:
+    theme: readable
