@@ -10,11 +10,12 @@ title: "Presentations"
 
 <div class="row" style="text-align: justify; font-size:15px;  text-justify: inter-word; padding-top: 20px;padding-left: 20px;padding-right: 20px">
 
-**Cain, E.** & Ryskin, R. (2023). Diachronic Language Change and Its Influence on Lexico-semantic Representations Across the Lifespan. At the Annual Meeting of the Cognitive Science Society. Sydney, AUS
+**Cain, E.** & Ryskin, R. (2023). [Diachronic Language Change and Its Influence on Lexico-semantic Representations Across the Lifespan](). At the Annual Meeting of the Cognitive Science Society. Sydney, AUS
 
-**Cain, E.** (2023). Teaching An Old Dog New Tricks? Learning Rates, Aging, And Language Change. At California Workshop on Evolutionary Social Science (CWESS). Merced, California
+**Cain, E.** (2023). [Teaching An Old Dog New Tricks? Learning Rates, Aging, And Language Change](). California Workshop on Evolutionary Social Science (CWESS), California, USA
 
-**Cain, E.**, Ryskin, R., & Yu, C. (2022). Quantifying cross-situational statistics during parent-child toy play. At the Annual Meeting of the Cognitive Science Society.
+**Cain, E.**, Ryskin, R., & Yu, C. (2022). [Quantifying cross-situational statistics during parent-child toy play](). Proceedings of the Cognitive Science Society, Toronto, CA
 
-**Cain, E.**, & Ryskin, R. (2022). Diachronic language change and meaning across the lifespan. At Architectures and Mechanisms of Language Processing (AMLaP). York, UK
+**Cain, E.**, & Ryskin, R. (2022). [Diachronic language change and meaning across the lifespan](https://virtual.oxfordabstracts.com/#/event/3067/submission/166). Architectures and Mechanisms of Language Processing (AMLaP), York, UK
+
 </div>

@@ -14,8 +14,6 @@ img {
 
 <div class="row" style="text-align: center; padding-top: 50px; padding-right: 20px;padding-left: 20px">
 
-
-
 <img src="img/cain_img.jpg" alt="photo" width="200" height="200" style="float:center">
 
 # Ellis Cain
@@ -33,13 +31,13 @@ I am a PhD student in the [Cognitive and Informational Sciences](https://cogsci.
 
 </div>
 
-## Related info
+
 
 ```{r, include=FALSE, echo = F}
 library(icons)
 ```
 
-<div class="row" style="text-align: center; padding-right: 20px;padding-left: 20px">
+<div class="row" style="text-align: center; padding-top: 50px; padding-right: 20px;padding-left: 20px">
 
 [`r icon_style(academicons("cv"), scale = 2, fill = "#2c3e50")`](pdf/cain_cv_2023.pdf)
 [`r icon_style(academicons("google-scholar"), scale = 2, fill = "#2c3e50")`](https://scholar.google.com/citations?user=P4AiTp4AAAAJ&hl=en) 

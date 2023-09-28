@@ -9,13 +9,13 @@ title: "Papers"
 </style>
 <div class="row" style="text-align: justify;  text-justify: inter-word; padding-top: 20px; padding-right: 20px; padding-left: 20px">
 
-**Cain, E.** & Ryskin, R. (2023). Diachronic Language Change and Its Influence on Lexico-semantic Representations Across the Lifespan. *In Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 45, No. 45).
+**Cain, E.** & Ryskin, R. (2023). [Diachronic Language Change and Its Influence on Lexico-semantic Representations Across the Lifespan](https://escholarship.org/uc/item/943334rm). *In Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 45, No. 45).
 
-**Cain, E.**, Ryskin, R., & Yu, C. (2022). Quantifying cross-situational statistics during parent-child toy play. *In Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 44, No. 44).
+**Cain, E.**, Ryskin, R., & Yu, C. (2022). [Quantifying cross-situational statistics during parent-child toy play](https://escholarship.org/uc/item/7w66j9bd). *In Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 44, No. 44).
 
-Zhang, Y., **Cain, E.**, Crandall, D., & Yu, C. (2022). Grounding Action Verbs in Egocentric Visual Perception. *In Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 44, No. 44).
+Zhang, Y., **Cain, E.**, Crandall, D., & Yu, C. (2022). [Grounding Action Verbs in Egocentric Visual Perception](https://escholarship.org/uc/item/9h7090tp). *In Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 44, No. 44).
 
-Zhang, Y., Amatuni, A., **Cain, E.**, Wang, X., Crandall, D., & Yu, C. (2021). Human Learners Integrate Visual and Linguistic Information Cross-Situational Verb Learning. *In Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 43, No. 43).
+Zhang, Y., Amatuni, A., **Cain, E.**, Wang, X., Crandall, D., & Yu, C. (2021). [Human Learners Integrate Visual and Linguistic Information Cross-Situational Verb Learning](https://escholarship.org/uc/item/6gt5t65g). *In Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 43, No. 43).
 
-Zhang, Y., Amatuni, A., **Cain, E.**, & Yu, C. (2020). Seeking Meaning: Examining a Cross-situational Solution to Learn Action Verbs Using Human Simulation Paradigm. *In Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 42, No. 42).
+Zhang, Y., Amatuni, A., **Cain, E.**, & Yu, C. (2020). [Seeking Meaning: Examining a Cross-situational Solution to Learn Action Verbs Using Human Simulation Paradigm](https://cognitivesciencesociety.org/cogsci20/papers/0705/0705.pdf). *In Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 42, No. 42).
 </div>
