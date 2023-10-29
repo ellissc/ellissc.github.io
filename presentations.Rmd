@@ -10,9 +10,11 @@ title: "Presentations"
 
 <div class="row" style="text-align: justify; font-size:15px;  text-justify: inter-word; padding-top: 20px;padding-left: 20px;padding-right: 20px">
 
-**Cain, E.** & Ryskin, R. (2023). [Diachronic Language Change and Its Influence on Lexico-semantic Representations Across the Lifespan](). At the Annual Meeting of the Cognitive Science Society. Sydney, AUS
+**Cain, E.**, Brown-Schmidt, S., & Ryskin, R. (2023). [Diachronic Verb Usage Statistics and Sentence Processing Across the Lifespan.](pdf/psychonomic_2023.pdf) At the Annual Meeting of the Psychonomic Society. San Francisco, CA
 
-**Cain, E.** (2023). [Teaching An Old Dog New Tricks? Learning Rates, Aging, And Language Change](). California Workshop on Evolutionary Social Science (CWESS), California, USA
+**Cain, E.** & Ryskin, R. (2023). [Diachronic Language Change and Its Influence on Lexico-semantic Representations Across the Lifespan](pdf/cogsci_2023.pdf). At the Annual Meeting of the Cognitive Science Society. Sydney, AUS
+
+**Cain, E.** (2023). [Teaching An Old Dog New Tricks? Learning Rates, Aging, And Language Change](pdf/cwess_2023.pdf). California Workshop on Evolutionary Social Science (CWESS), California, USA
 
 **Cain, E.**, Ryskin, R., & Yu, C. (2022). [Quantifying cross-situational statistics during parent-child toy play](). Proceedings of the Cognitive Science Society, Toronto, CA
 
