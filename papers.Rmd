@@ -9,6 +9,8 @@ title: "Papers"
 </style>
 <div class="row" style="text-align: justify;  text-justify: inter-word; padding-top: 20px; padding-right: 20px; padding-left: 20px">
 
+**Cain, E.**, & Ryskin, R. (2024). Diachronic change in verb usage statistics predicts differences in sentence processing across the lifespan. In Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics (pp. 221-230).
+
 **Cain, E.** & Ryskin, R. (2023). [Diachronic Language Change and Its Influence on Lexico-semantic Representations Across the Lifespan](https://escholarship.org/uc/item/943334rm). *In Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 45, No. 45).
 
 **Cain, E.**, Ryskin, R., & Yu, C. (2022). [Quantifying cross-situational statistics during parent-child toy play](https://escholarship.org/uc/item/7w66j9bd). *In Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 44, No. 44).
