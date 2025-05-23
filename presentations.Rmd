@@ -10,18 +10,23 @@ title: "Presentations"
 
 <div class="row" style="text-align: justify; font-size:15px;  text-justify: inter-word; padding-top: 20px;padding-left: 20px;padding-right: 20px">
 
-**Cain, E.**, Geballe, E., & Marghetis, T. (2024). [Translation as Transmission: Disentangling the impact of cultural context from cultural transmission using an unusual English-to-English cycle of 19th century literary translations.](pdf/ces_2024.pdf) At the Cultural Evolution Society Conference (CES). Durham, UK 
+**Cain, E.**, Chao, A., & Ryskin, R. (2024). Diachronic language change explains apparent age-related differences in information-theoretic efficiency. *At the Conference on Rational Approaches in Language Science (RAILS)*. Saarbrucken, Germany
 
-**Cain, E.**, & Ryskin, R. (2024). Diachronic change in verb usage statistics predicts differences in sentence processing across the lifespan. At the Workshop on Cognitive Modeling and Computational Linguistics Bangkok, Thailand
+**Cain, E.**, Chao, A., & Ryskin, R. (2024). Stability in the production of syntactic attachment across the
+lifespan. *At the California Meeting on Psycholinguistics (CAMP[7])*. San Diego, CA
 
-**Cain, E.**, Brown-Schmidt, S., & Ryskin, R. (2023). [Diachronic Verb Usage Statistics and Sentence Processing Across the Lifespan.](pdf/psychonomic_2023.pdf) At the Annual Meeting of the Psychonomic Society. San Francisco, CA
+**Cain, E.**, Geballe, E., & Marghetis, T. (2024). [Translation as Transmission: Disentangling the impact of cultural context from cultural transmission using an unusual English-to-English cycle of 19th century literary translations.](pdf/ces_2024.pdf) *At the Cultural Evolution Society Conference (CES)*. Durham, UK 
 
-**Cain, E.** & Ryskin, R. (2023). [Diachronic Language Change and Its Influence on Lexico-semantic Representations Across the Lifespan](pdf/cogsci_2023.pdf). At the Annual Meeting of the Cognitive Science Society. Sydney, AUS
+**Cain, E.**, & Ryskin, R. (2024). Diachronic change in verb usage statistics predicts differences in sentence processing across the lifespan. *At the Workshop on Cognitive Modeling and Computational Linguistics*. Bangkok, Thailand
 
-**Cain, E.** (2023). [Teaching An Old Dog New Tricks? Learning Rates, Aging, And Language Change](pdf/cwess_2023.pdf). California Workshop on Evolutionary Social Science (CWESS), California, USA
+**Cain, E.**, Brown-Schmidt, S., & Ryskin, R. (2023). [Diachronic Verb Usage Statistics and Sentence Processing Across the Lifespan.](pdf/psychonomic_2023.pdf) *At the Annual Meeting of the Psychonomic Society*. San Francisco, CA
 
-**Cain, E.**, Ryskin, R., & Yu, C. (2022). [Quantifying cross-situational statistics during parent-child toy play](). Proceedings of the Cognitive Science Society, Toronto, CA
+**Cain, E.** & Ryskin, R. (2023). [Diachronic Language Change and Its Influence on Lexico-semantic Representations Across the Lifespan](pdf/cogsci_2023.pdf). *At the Annual Meeting of the Cognitive Science Society*. Sydney, AUS
 
-**Cain, E.**, & Ryskin, R. (2022). [Diachronic language change and meaning across the lifespan](https://virtual.oxfordabstracts.com/#/event/3067/submission/166). Architectures and Mechanisms of Language Processing (AMLaP), York, UK
+**Cain, E.** (2023). [Teaching An Old Dog New Tricks? Learning Rates, Aging, And Language Change](pdf/cwess_2023.pdf). *At the California Workshop on Evolutionary Social Science (CWESS)*. California, USA
+
+**Cain, E.**, Ryskin, R., & Yu, C. (2022). [Quantifying cross-situational statistics during parent-child toy play](). *At the Annual Meeting of the Cognitive Science Society*. Toronto, CA
+
+**Cain, E.**, & Ryskin, R. (2022). [Diachronic language change and meaning across the lifespan](https://virtual.oxfordabstracts.com/#/event/3067/submission/166). *At Architectures and Mechanisms of Language Processing (AMLaP)*. York, UK
 
 </div>
