@@ -31,7 +31,7 @@ I am a PhD student in the [Cognitive and Informational Sciences](https://cogsci.
 In my various research projects, I explore the relationship between aging and cultural evolution: how lifespan learning influences our semantic and syntactic representations, how population dynamics interact with cognitive decline in the context of language evolution, and whether measurement methods show (or hide) age-related differences. I also study distortion in cross-cultural transmission through translation chains.
 
 
-Currently, I work in Dr. Rachel Ryskin's [Language, Interaction, and Cognition Lab](https://linclab0.github.io/) and collaborate with various professors at UC Merced. Previously, I worked with [Chen Yu](https://www.la.utexas.edu/users/dil/) on verb-specific statistical learning and the ecological validity of cross-situational learning. 
+Currently, I work in Rachel Ryskin's [Language, Interaction, and Cognition Lab](https://linclab0.github.io/) and collaborate with various professors at UC Merced. Previously, I worked with [Chen Yu](https://www.la.utexas.edu/users/dil/) on verb-specific statistical learning and the ecological validity of cross-situational learning. 
 
 </div>
 
