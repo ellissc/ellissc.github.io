@@ -24,7 +24,7 @@ title: "Papers"
 
 <div class="row" style="text-align: justify;  text-justify: inter-word; padding-top: 20px; padding-right: 20px; padding-left: 20px">
 
-Chao, A., **Cain, E.**, & Ryskin, R. (2025). [Language experience and prediction across age groups: evidence from diachronic fine-tuning of language models](pdf/Finetuning_cogsci.pdf). *In Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 47, No. 47).
+Chao, A., **Cain, E.**, & Ryskin, R. (2025). [Language experience and prediction across age groups: evidence from diachronic fine-tuning of language models](pdf/cogsci_2025.pdf). *In Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 47, No. 47).
 
 **Cain, E.**, & Ryskin, R. (2024). [Diachronic change in verb usage statistics predicts differences in sentence processing across the lifespan](https://aclanthology.org/2024.cmcl-1.19.pdf). *In Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics* (pp. 221-230).
 
