@@ -27,7 +27,7 @@ img {
 
 ## Academic bio
 
-I am a PhD student in the [Cognitive and Informational Sciences](https://cogsci.ucmerced.edu) program at UC Merced. 
+I am a PhD Candidate in the [Cognitive and Informational Sciences](https://cogsci.ucmerced.edu) program at UC Merced. 
 In my various research projects, I explore the relationship between aging and cultural evolution: how lifespan learning influences our semantic and syntactic representations, how population dynamics interact with cognitive decline in the context of language evolution, and whether measurement methods show (or hide) age-related differences. I also study distortion in cross-cultural transmission through translation chains.
 
 
