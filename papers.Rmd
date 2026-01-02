@@ -17,7 +17,7 @@ ol li {
 
 <ol class="row" style="text-align: justify;  text-justify: inter-word; padding-top: 5px; padding-right: 20px; padding-left: 40px">
 
-<li>**Ellis Cain** & Rachel Ryskin (Forthcoming in OpenMind). [Semantic Representations are Updated Across the Lifespan Reflecting Diachronic Language Change](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4883002).</li>
+<li>**Ellis Cain** & Rachel Ryskin (2025). [Semantic Representations Are Updated Across the Lifespan Reflecting Diachronic Language Change](https://doi.org/10.1162/OPMI.a.315). *Open Mind*, 9, 2114–2148.</li>
 
 <li>**Ellis Cain**, Rachel Ryskin, & Chen Yu (2025). [Cross‐Situational Statistics Present in an Early Language Learning Context: Evidence From Naturalistic Parent–Child Interactions](https://escholarship.org/uc/item/3vq7v1s8). *Cognitive Science, 49(6)*, e70078.</li>
 
