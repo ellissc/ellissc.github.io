@@ -19,6 +19,8 @@ ol li {
 
 <li>Alton Chao, **Ellis Cain**, & Rachel Ryskin (2025). Language experience and prediction across age groups: evidence from diachronic fine-tuning of language models. *For the MRPI Planning Grant: Leveraging California's Linguistic Diversity to Improve Large Language Models.* University of California</li>
 
+<li>**Ellis Cain** (2026). Computational Analysis of Language Development Across Timescales. *For the Developmental Psychology Colloquium.* University of California</li>
+
 </ol>
 
 <div class="row" style="text-align: justify;  text-justify: inter-word; padding-top: 20px; padding-right: 20px; padding-left: 20px">
