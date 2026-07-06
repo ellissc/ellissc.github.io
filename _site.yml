@@ -10,3 +10,5 @@ navbar:
 output:
   html_document:
     theme: readable
+    includes:
+      in_header: "favicon.html"
