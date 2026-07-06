@@ -2,6 +2,12 @@
 title: "About"
 ---
 
+
+```{r, include=FALSE, echo = F}
+library(icons)
+library(fontawesome)
+```
+
 <style type="text/css">
 .title {
   display: none;
@@ -12,41 +18,29 @@ img {
 
 </style>
 
-<div class="row" style="text-align: center; padding-top: 50px; padding-right: 20px;padding-left: 20px">
+<div style="display: flex; flex-direction: row; gap: 20px;">
+  <div class="a" style="flex: 1;text-align: center; padding-top: 70px; padding-right: 10px;padding-left: 10px">
 
 <img src="img/cain_img.jpg" alt="photo" width="200" height="200" style="float:center">
 
-# Ellis Cain
+# Ellis Cain, Ph.D.
 
-`ecain@ucmerced.edu`
+`cain1@kenyon.edu`
 
-</div>
-
-
-<div class="row" style="text-align: justify; text-justify: inter-word;  padding-top: 2px;padding-right: 20px;padding-left: 20px">
-
-## Academic bio
-
-I am a PhD Candidate in the [Cognitive and Informational Sciences](https://cogsci.ucmerced.edu) program at UC Merced. 
-My research explores how individual linguistic development (i.e., across the whole lifespan) and group-level cultural evolution mutually shape and constrain one another, giving rise to the structure of language. In the long run, I aim to provide both a mechanistic account of how linguistic processing & production change across the lifespan, and quantify its relation to historical changes in language by integrating computational, behavioral, and neural approaches. I also study the relationship between cultural context and transmission pressures in the context of cultural evolution.
-
-Currently, I work in Rachel Ryskin's [Language, Interaction, and Cognition Lab](https://linclab0.github.io/) and collaborate with various professors at UC Merced. Previously, I worked with [Chen Yu](https://www.la.utexas.edu/users/dil/) on verb-specific statistical learning and the ecological validity of cross-situational learning. 
-
-</div>
-
-
-
-```{r, include=FALSE, echo = F}
-library(icons)
-library(fontawesome)
-```
-
-<div class="row" style="text-align: center; padding-top: 50px; padding-right: 20px;padding-left: 20px">
-
-<!-- [`r icon_style(academicons("cv"), scale = 2, fill = "#2c3e50")`](pdf/cain_cv_2023.pdf) -->
 [`r icon_style(academicons("google-scholar"), scale = 2, fill = "#2c3e50")`](https://scholar.google.com/citations?user=P4AiTp4AAAAJ&hl=en) 
 [`r icon_style(fontawesome("github"), scale = 2, fill = "#2c3e50")`](https://github.com/ellissc)
 [`r fa("bluesky", height = "1.75em", vertical_align = "0em", fill = "#2c3e50")`](https://bsky.app/profile/ellscain.bsky.social) 
+
+  </div>
+  <div class="b" style="flex: 2;text-align: justify; text-justify: inter-word;  padding-top: 50px;padding-right: 10px;padding-left: 10px">
+  
+## Academic bio 
+
+Dr. Ellis Cain is a Postdoctoral Fellow in the Computing program at Kenyon College.
+His research uses interdisciplinary methodology to explore how individual development (e.g., lifespan learning, cognitive development) and group-level cultural evolution mutually interact and lead to either consistency or divergence in how synchronic age cohorts use and understand language. His current work investigates how this relationship influences the communication patterns of cross-generational conversation dyads. He also studies the stability of semantic information in cultural transmission and the role of shared language in the preservation of narratives.
+
+He graduated from the [Cognitive and Informational Sciences](https://cogsci.ucmerced.edu) program at UC Merced, where he worked in Rachel Ryskin's [Language, Interaction, and Cognition Lab](https://linclab0.github.io/) and collaborated with various professors at UC Merced. He continues to work closely with Rachel on understanding the role of diachronic language change in age-related differences in language processing. During his undergraduate studies, he worked with [Chen Yu](https://www.la.utexas.edu/users/dil/) on verb-specific statistical learning and the ecological validity of cross-situational learning.
+  </div>
 </div>
 
 

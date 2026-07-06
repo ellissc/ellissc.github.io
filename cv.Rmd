@@ -1,0 +1,13 @@
+---
+title: "CV"
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+</style>
+
+<iframe src="pdf/cain_cv.pdf" style="width:95%; height:750px; text-align:center" frameborder="0"></iframe>
+
+
