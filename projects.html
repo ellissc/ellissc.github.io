@@ -11,7 +11,7 @@
 
 
 
-<title>CV</title>
+<title>Projects</title>
 
 <script src="site_libs/header-attrs-2.32/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -29,10 +29,17 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link rel="conversation icon" href="https://upload.wikimedia.org/wikipedia/commons/b/ba/Noun_Conversation_1325511.svg">
+<link rel="preload" href="font/SpaceMono-Regular.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="font/SpaceMono-Bold.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="font/SpaceMono-Italic.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="font/SpaceMono-BoldItalic.ttf" as="font" type="font/ttf" crossorigin>
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -221,6 +228,75 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
 
 </head>
 
@@ -228,6 +304,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -268,7 +354,7 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">CV</h1>
+<h1 class="title toc-ignore">Projects</h1>
 
 </div>
 
@@ -277,12 +363,111 @@ $(document).ready(function () {
 .title {
   display: none;
 }
+div.tocify {
+  width: 250px !important;
+  max-width: 250px !important;
+}
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100% !important;
+    max-width: none !important;
+  }
+}
+.tocify .list-group-item.active,
+.tocify .list-group-item.active:hover,
+.tocify .list-group-item.active:focus {
+  background-color: #8F80FF;
+  border-color: #8F80FF;
+}
 </style>
-<iframe src="pdf/cain_cv.pdf" style="width:95%; height:750px; text-align:center" frameborder="0">
-</iframe>
+<div id="research-projects" class="section level1">
+<h1>Research Projects</h1>
+<p>Below are brief descriptions of my various research projects, along
+with a representative citation for the corresponding area. See <a
+href="cv.html">my CV</a> for the full citations.</p>
+<hr />
+<div id="conversational-device-usage-across-generations"
+class="section level3">
+<h3>Conversational Device Usage Across Generations</h3>
+<p>Under active development - check back later for updates!</p>
+<hr />
+</div>
+<div id="lifespan-learning-and-cognitive-representations"
+class="section level3">
+<h3>Lifespan Learning and Cognitive Representations</h3>
+<p>Patterns of language usage change over time, which means that the
+context in which words and constructs are experienced differ across an
+individual’s lifespan. This project investigates whether language users’
+cognitive representations track these changes in lockstep, or instead
+retain traces of previous language usage patterns, and whether these
+dynamics explain any age-related differences in language processing.</p>
+<div id="representations-of-meaning" class="section level4">
+<h4>Representations of meaning</h4>
+<ul>
+<li>Cain, E., &amp; Ryskin, R. (2025). Semantic representations are
+updated across the lifespan reflecting diachronic language change.
+<em>Open Mind</em>.</li>
+</ul>
+</div>
+<div id="representations-of-structure" class="section level4">
+<h4>Representations of structure</h4>
+<ul>
+<li>Cain, E., &amp; Ryskin, R. (2024). Diachronic change in verb usage
+statistics predicts differences in sentence processing across the
+lifespan. <em>Proceedings of the Workshop on Cognitive Modeling and
+Computational Linguistics</em>.</li>
+</ul>
+</div>
+<div id="predictions" class="section level4">
+<h4>Predictions</h4>
+<ul>
+<li>Chao, A., Cain, E., &amp; Ryskin, R. (2025). Language experience and
+prediction across age groups: Evidence from diachronic fine-tuning of
+language models. <em>Proceedings of the 47th Annual Meeting of the
+Cognitive Science Society</em>.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="construct-stability-in-cultural-transmission"
+class="section level3">
+<h3>Construct Stability in Cultural Transmission</h3>
+<p>How do narrative constructs change as they cross cultural boundaries?
+Real-world cross-cultural transmission is typically confounded with
+large-scale changes in cultural context, making it difficult to
+disentangle the mechanisms of cultural stability and change. This case
+study aims to separate the cumulative effects of repeated transmission
+from the stabilizing influence of shared cultural context.</p>
+<ul>
+<li>Cain, E., Geballe, E., &amp; Marghetis, T. (2026). A literary
+translation cycle disentangles transmission pressures from sociocultural
+changes in cultural evolution. <em>PsyArXiv preprint</em>.</li>
+</ul>
+<hr />
+</div>
+<div id="statistical-learning" class="section level3">
+<h3>Statistical Learning</h3>
+<p>Infants are though to aggregate statistical information across
+multiple naming events to resolve ambiguous word-referent mappings,
+which is often referred to as the cross-situational learning account.
+Laboratory demonstrations of this ability, however, may not reflect the
+ambiguity that is actually present in everyday learning environments.
+This project examines the ecological validity of cross-situational
+learning mechanisms using naturalistic parent-child interaction
+datasets, investigating whether the statistics present in real-world
+environments are sufficient to support word learning.</p>
+<ul>
+<li>Cain, E., Ryskin, R., &amp; Yu, C. (2025). Cross-situational
+statistics present in an early language learning context: Evidence from
+naturalistic parent–child interactions. <em>Cognitive Science</em>.</li>
+</ul>
+</div>
+</div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -315,6 +500,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

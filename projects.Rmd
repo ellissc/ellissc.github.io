@@ -1,0 +1,76 @@
+---
+title: "Projects"
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: true
+    toc_depth: 3
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+div.tocify {
+  width: 250px !important;
+  max-width: 250px !important;
+}
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100% !important;
+    max-width: none !important;
+  }
+}
+.tocify .list-group-item.active,
+.tocify .list-group-item.active:hover,
+.tocify .list-group-item.active:focus {
+  background-color: #8F80FF;
+  border-color: #8F80FF;
+}
+</style>
+
+# Research Projects
+
+Below are brief descriptions of my various research projects, along with a representative citation for the corresponding area. See [my CV](cv.html) for the full citations.
+
+---
+
+### Conversational Device Usage Across Generations
+
+Under active development - check back later for updates!
+
+---
+
+### Lifespan Learning and Cognitive Representations
+
+Patterns of language usage change over time, which means that the context in which words and constructs are experienced differ across an individual's lifespan. This project investigates whether language users' cognitive representations track these changes in lockstep, or instead retain traces of previous language usage patterns, and whether these dynamics explain any age-related differences in language processing.
+
+#### Representations of meaning
+
+- Cain, E., & Ryskin, R. (2025). Semantic representations are updated across the lifespan reflecting diachronic language change. *Open Mind*.
+
+#### Representations of structure
+
+- Cain, E., & Ryskin, R. (2024). Diachronic change in verb usage statistics predicts differences in sentence processing across the lifespan. *Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics*.
+
+#### Predictions
+
+- Chao, A., Cain, E., & Ryskin, R. (2025). Language experience and prediction across age groups: Evidence from diachronic fine-tuning of language models. *Proceedings of the 47th Annual Meeting of the Cognitive Science Society*.
+
+---
+
+### Construct Stability in Cultural Transmission
+
+How do narrative constructs change as they cross cultural boundaries? Real-world cross-cultural transmission is typically confounded with large-scale changes in cultural context, making it difficult to disentangle the mechanisms of cultural stability and change. This case study aims to separate the cumulative effects of repeated transmission from the stabilizing influence of shared cultural context.
+
+- Cain, E., Geballe, E., & Marghetis, T. (2026). A literary translation cycle disentangles transmission pressures from sociocultural changes in cultural evolution. *PsyArXiv preprint*.
+
+---
+
+### Statistical Learning
+
+Infants are though to aggregate statistical information across multiple naming events to resolve ambiguous word-referent mappings, which is often referred to as the cross-situational learning account. Laboratory demonstrations of this ability, however, may not reflect the ambiguity that is actually present in everyday learning environments. This project examines the ecological validity of cross-situational learning mechanisms using naturalistic parent-child interaction datasets, investigating whether the statistics present in real-world environments are sufficient to support word learning.
+
+- Cain, E., Ryskin, R., & Yu, C. (2025). Cross-situational statistics present in an early language learning context: Evidence from naturalistic parent–child interactions. *Cognitive Science*.
