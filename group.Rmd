@@ -17,7 +17,7 @@ title: "DAT Lab"
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px; align-items: center;">
   <div class="dat-logo" style="flex: 0 0 50px; text-align: center;">
 
-<img src="img/logo.png" alt="DAT Lab logo" style="width: 100%; height: auto;">
+<img src="img/logo.svg" alt="DAT Lab logo" style="width: 100%; height: auto;">
 
   </div>
   <div class="dat-title" style="flex: 1; min-width: 200px;">
