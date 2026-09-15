@@ -26,10 +26,12 @@ img {
 }
 </style>
 
+<link rel="preload" href="img/headshot-sm.jpg" as="image" type="image/jpeg">
+
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px;">
   <div class="a" style="flex: 1;text-align: center; padding-top: 70px; padding-right: 10px;padding-left: 10px">
 
-<img src="img/cain_img.jpg" alt="photo" width="200" height="200" style="float:center">
+<img src="img/headshot-sm.jpg" alt="photo" width="200" height="200" style="float:center">
 
 # Ellis Cain, Ph.D.
 
