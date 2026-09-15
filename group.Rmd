@@ -1,5 +1,5 @@
 ---
-title: "DAT Lab"
+title: "DAT Group"
 ---
 
 <style type="text/css">
@@ -17,23 +17,23 @@ title: "DAT Lab"
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px; align-items: center;">
   <div class="dat-logo" style="flex: 0 0 50px; text-align: center;">
 
-<img src="img/logo.svg" alt="DAT Lab logo" style="width: 100%; height: auto;">
+<img src="img/logo.svg" alt="DAT Group logo" style="width: 100%; height: auto;">
 
   </div>
   <div class="dat-title" style="flex: 1; min-width: 200px;">
 
-# Development Across Timescales (DAT) Lab
+# Development Across Timescales (DAT) Research Group
 
   </div>
 </div>
 
 ### What do we do?
 
-In the DAT lab, we use interdisciplinary approaches to understand development across multiple timescales, from in-the-moment adaptations in conversation, to language learning across the lifespan, and to cross-generational developments across generations.
+In the DAT research group, we use interdisciplinary approaches to understand development across multiple timescales, from in-the-moment adaptations in conversation, to language learning across the lifespan, and to cross-generational developments across generations.
 
 ---
 
-### Join my Lab!
+### Join my Research Group!
 
 I am always happy to talk with students who are curious about the intersection of **psychology and computer science** — whether that means studying how people think and learn, building tools to study cognition, or applying computational methods to behavioral data.
 

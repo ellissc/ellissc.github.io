@@ -5,12 +5,14 @@ navbar:
   left:
     - text: "About"
       href: index.html
-    - text: "CV"
-      href: cv.html
-    - text: "DAT Lab"
+    - text: "DAT Group"
       href: group.html
     - text: "Research"
       href: projects.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "CV"
+      href: cv.html
 output:
   html_document:
     theme: readable

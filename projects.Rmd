@@ -45,7 +45,7 @@ Under active development - check back later for updates!
 
 ### Lifespan Learning and Cognitive Representations
 
-Patterns of language usage change over time, which means that the context in which words and constructs are experienced differ across an individual's lifespan. This project investigates whether language users' cognitive representations track these changes in lockstep, or instead retain traces of previous language usage patterns, and whether these dynamics explain any age-related differences in language processing.
+Patterns of language usage change over time, which means that the context in which words and constructions are experienced differ across an individual's lifespan. This project investigates whether language users' cognitive representations track these changes in lockstep, or instead retain traces of previous language usage patterns, and whether these dynamics explain any age-related differences in language processing.
 
 #### Representations of meaning
 
@@ -61,9 +61,9 @@ Patterns of language usage change over time, which means that the context in whi
 
 ---
 
-### Construct Stability in Cultural Transmission
+### Stability in Cultural Transmission
 
-How do narrative constructs change as they cross cultural boundaries? Real-world cross-cultural transmission is typically confounded with large-scale changes in cultural context, making it difficult to disentangle the mechanisms of cultural stability and change. This case study aims to separate the cumulative effects of repeated transmission from the stabilizing influence of shared cultural context.
+How do narrative structures change as they cross cultural boundaries? Real-world cross-cultural transmission is typically confounded with large-scale changes in cultural context, making it difficult to disentangle the mechanisms of cultural stability and change. This case study aims to separate the cumulative effects of repeated transmission from the stabilizing influence of shared cultural context.
 
 - Cain, E., Geballe, E., & Marghetis, T. (2026). A literary translation cycle disentangles transmission pressures from sociocultural changes in cultural evolution. *PsyArXiv preprint*.
 

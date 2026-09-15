@@ -1,0 +1,78 @@
+---
+title: "Teaching"
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: true
+    toc_depth: 3
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+div.tocify {
+  width: 250px !important;
+  max-width: 250px !important;
+}
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100% !important;
+    max-width: none !important;
+  }
+}
+.tocify .list-group-item.active,
+.tocify .list-group-item.active:hover,
+.tocify .list-group-item.active:focus {
+  background-color: #8F80FF;
+  border-color: #8F80FF;
+}
+</style>
+
+# Teaching
+
+**Key:** \* Instructor of Record &nbsp;&nbsp; † Teaching Assistant
+
+---
+
+### Kenyon College
+
+**Fall 2026**
+
+- Introduction to Programming \*
+- ST: Intro to Program with AI \*
+
+#### Planned Upcoming Courses
+
+- Computers and Language \*
+- Minds and Machines \*
+
+---
+
+### University of California, Merced
+
+**Fall 2025**
+
+- Introduction to Language and Linguistics †<br>
+
+**Fall 2024**
+
+- Research Methods in Psychology †<br>
+
+**Spring 2024**
+
+- Language in Minds, Brains, and Machines †<br>
+
+**2021–2022**
+
+- Introduction to Cognitive Science †<br>
+
+---
+
+### Pedagogical Materials
+
+**Textbook Chapters**
+
+- Co-authored the Word Embeddings chapter in the open-source *[Neural Networks and Cognitive Science](https://github.com/simbrain/NeuralNetworksCogSciBook)* textbook, and built an accompanying interactive teaching tool for word embeddings in **[SimBrain](https://simbrain.net/)**.

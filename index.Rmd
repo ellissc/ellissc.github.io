@@ -47,7 +47,7 @@ img {
 
 I currently am a Postdoctoral Fellow in the [Computing program](https://www.kenyon.edu/academics/departments-and-majors/computing/) at Kenyon College.
 
-How do we learn and change across a lifespan? How does what we learn within a lifespan relate to the constructs that are transmitted across generations? And (why) do different generations, who are exposed to the world for different periods of time, have similar mental representations?
+How do we learn and change across a lifespan? How does what we learn within a lifespan relate to the constructions that are transmitted across generations? And (why) do different generations, who are exposed to the world for different periods of time, have similar mental representations?
 I study the relationship between individual cognitive development and cross-generational cultural transmission. I approach these questions, with language as a test case, using online/in-person behavioral experiments, large-scale dataset analysis, and computational modeling to better understand how individual minds both shape and are shaped by the broader communities that they belong to.
 
 ---
