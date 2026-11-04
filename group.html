@@ -32,7 +32,10 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link rel="icon" type="image/svg+xml" href="img/logo.svg">
+<link rel="icon" href="favicon.ico" sizes="48x48">
+<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32.png">
+<link rel="icon" type="image/svg+xml" sizes="any" href="img/logo.svg">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="preload" href="font/SpaceMono-Regular.ttf" as="font" type="font/ttf" crossorigin>
 <link rel="preload" href="font/SpaceMono-Bold.ttf" as="font" type="font/ttf" crossorigin>
 <link rel="preload" href="font/SpaceMono-Italic.ttf" as="font" type="font/ttf" crossorigin>
@@ -260,8 +263,23 @@ $(document).ready(function () {
 <li>
   <a href="cv.html">CV</a>
 </li>
-<li>
-  <a href="group.html">DAT Group</a>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    DAT Group
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="group.html">Overview</a>
+    </li>
+    <li>
+      <a href="group.html#group-members">Members</a>
+    </li>
+    <li>
+      <a href="group.html#join-my-research-group">Join</a>
+    </li>
+  </ul>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -309,23 +327,32 @@ adaptations in conversation, to language learning within the lifespan,
 and to cross-generational developments across generations.</p>
 <hr />
 </div>
+<div id="group-members" class="section level3">
+<h3>Group Members</h3>
+<p><strong>Director:</strong></p>
+<ul>
+<li><a href="index.html">Ellis Cain, Ph.D.</a></li>
+</ul>
+<p><strong>Research Assistants</strong></p>
+<ul>
+<li>Information coming soon.</li>
+</ul>
+<hr />
+</div>
 <div id="join-my-research-group" class="section level3">
 <h3>Join my Research Group!</h3>
 <p>I am always happy to talk with students who are curious about the
 intersection of <strong>psychology and data science</strong> — whether
 that means studying how people think and learn, building tools to study
 cognition, or applying computational methods to behavioral data.</p>
-<p>If you are a Kenyon student interested in getting involved in
-research, please reach out! No prior research experience is required.
-Due to the type of data that we collect and work with, programming
-skills are very beneficial.</p>
-<p>Please fill out this <strong><a
+<p>I am not actively recruiting research assistants at the moment, but
+you are still welcome to contact me if you are interested! No prior
+research experience is required, though, due to the type of data that we
+collect and work with, programming skills are very beneficial.</p>
+<p>You can email me at cain1 [at] kenyon.edu or fill out this <strong><a
 href="https://forms.gle/xM6cNVmArnaFbZik7">interest survey
-form</a></strong>.</p>
-<p>Currently recruiting a research assistant to work on projects related
-to: 1) online behavioral experiments, 2) dataset analysis and data
-visualization, or 3) literature reviews. See the <a
-href="projects.html">research tab</a> for what I’m working on.</p>
+form</a></strong>. See the <a href="projects.html">research tab</a> for
+what I’m working on.</p>
 </div>
 
 

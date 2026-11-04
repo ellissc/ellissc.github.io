@@ -12,7 +12,13 @@ navbar:
     - text: "CV"
       href: cv.html
     - text: "DAT Group"
-      href: group.html
+      menu:
+        - text: "Overview"
+          href: group.html
+        - text: "Members"
+          href: group.html#group-members
+        - text: "Join"
+          href: group.html#join-my-research-group
 output:
   html_document:
     theme: readable

@@ -33,12 +33,22 @@ In the DAT research group, we use interdisciplinary approaches to understand dev
 
 ---
 
+### Group Members
+
+**Director:** 
+
+- [Ellis Cain, Ph.D.](index.html)
+
+**Research Assistants**
+
+- Information coming soon.
+
+---
+
 ### Join my Research Group!
 
 I am always happy to talk with students who are curious about the intersection of **psychology and data science** — whether that means studying how people think and learn, building tools to study cognition, or applying computational methods to behavioral data.
 
-If you are a Kenyon student interested in getting involved in research, please reach out! No prior research experience is required. Due to the type of data that we collect and work with, programming skills are very beneficial.
+I am not actively recruiting research assistants at the moment, but you are still welcome to contact me if you are interested! No prior research experience is required, though, due to the type of data that we collect and work with, programming skills are very beneficial.
 
-Please fill out this **[interest survey form](https://forms.gle/xM6cNVmArnaFbZik7)**.
-
-Currently recruiting a research assistant to work on projects related to: 1) online behavioral experiments, 2) dataset analysis and data visualization, or 3) literature reviews. See the [research tab](projects.html) for what I'm working on.
+You can email me at cain1 [at] kenyon.edu or fill out this **[interest survey form](https://forms.gle/xM6cNVmArnaFbZik7)**. See the [research tab](projects.html) for what I'm working on.
