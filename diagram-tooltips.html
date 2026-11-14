@@ -1,0 +1,86 @@
+<script>
+// Turns Graphviz edge tooltips (<a title="...">) on arrows and highlighted nodes into styled popups using
+// the tippy.js library that Quarto already loads.
+
+// Where each popup appears. The keys are the shape names from the Graphviz code
+// (nodes: turn, group, indiv, learn; arrows: "from->to").
+// Placement can be: top, bottom, left, right (each also as -start / -end).
+// Optional offset: [sideways shift, distance from the shape], in pixels.
+// Optional anchor: "mid" attaches the popup to the middle of an arrow's line instead of the edge of
+//   its bounding box (much closer for diagonal arrows). The "-end" placements (e.g. left-end) put the
+//   popup above the line so it doesn't cover the arrow.
+// Optional maxWidth: popup width in pixels (narrower popups fit beside the diagram more often).
+// Optional fallback: placements to try, in order, if there isn't room for the first choice
+//   (default: top, then bottom, so a popup never flips onto the diagram itself).
+// Anything not listed uses DEFAULT_PLACEMENT.
+var DEFAULT_PLACEMENT = "top";
+var PLACEMENTS = {
+  "indiv->group": { placement: "left-end",  anchor: "mid", offset: [0, 12], maxWidth: 200, fallback: ["top-end"] },
+  "group->learn": { placement: "right-end", anchor: "mid", offset: [0, 12], maxWidth: 200, fallback: ["top-start"] },
+  "learn->indiv": { placement: "bottom" },
+  "turn":         { placement: "bottom" }
+};
+
+window.addEventListener("DOMContentLoaded", function () {
+  if (!window.tippy) return;
+  document.querySelectorAll("svg .edge a[title], svg .node a[title]").forEach(function (a) {
+    var text = a.getAttribute("title");
+    a.removeAttribute("title");              // avoid a second, native tooltip
+    a.setAttribute("tabindex", "0");         // keyboard focusable
+    a.setAttribute("aria-label", text);
+    var shape = a.closest("g.node, g.edge");
+    var key = shape && shape.querySelector("title") ? shape.querySelector("title").textContent : "";
+    var cfg = PLACEMENTS[key] || {};
+    var midpoint = null;
+    if (cfg.anchor === "mid") {
+      var line = shape.querySelector("path");   // the arrow's line
+      midpoint = function () {
+        var r = line.getBoundingClientRect();
+        var x = r.left + r.width / 2, y = r.top + r.height / 2;
+        return { width: 0, height: 0, top: y, bottom: y, left: x, right: x };
+      };
+    }
+    window.tippy(a, {
+      getReferenceClientRect: midpoint,
+      content: text,
+      theme: "quarto",
+      placement: cfg.placement || DEFAULT_PLACEMENT,
+      offset: cfg.offset || [0, 10],
+      maxWidth: cfg.maxWidth || 260,
+      popperOptions: {
+        modifiers: [{ name: "flip", options: { fallbackPlacements: cfg.fallback || ["top", "bottom"] } }]
+      },
+      touch: true,
+      trigger: "mouseenter focus click"
+    });
+  });
+
+  // Hovering (or focusing) the oval reveals dashed connectors to the arrows.
+  document.querySelectorAll("svg").forEach(function (svg) {
+    var edges = Array.prototype.filter.call(svg.querySelectorAll("g.edge"), function (g) {
+      var t = g.querySelector("title");
+      return t && /^turn->anc_/.test(t.textContent);
+    });
+    if (!edges.length) return;
+    edges.forEach(function (g) { g.classList.add("connector"); });
+    var oval = Array.prototype.find.call(svg.querySelectorAll("g.node"), function (g) {
+      var t = g.querySelector("title");
+      return t && t.textContent === "turn";
+    });
+    if (!oval) return;
+    function show() { svg.classList.add("show-connectors"); }
+    function hide() { svg.classList.remove("show-connectors"); }
+    oval.addEventListener("mouseenter", show);
+    oval.addEventListener("mouseleave", hide);
+    oval.addEventListener("focusin", show);
+    oval.addEventListener("focusout", hide);
+  });
+
+  // Graphviz adds a <title> (e.g. "indiv->group") to every shape, which browsers show as a
+  // second, plain tooltip. Remove them now that the script has read the names it needs.
+  document.querySelectorAll("svg.show-connectors, svg").forEach(function (svg) {
+    if (!svg.querySelector("g.edge, g.node")) return;
+    svg.querySelectorAll("title").forEach(function (el) { el.remove(); });
+  });
+});
+</script>

@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download PDF file.Download CV (PDF)"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "My work builds on the view of language as a complex adaptive system1, in which individual language use, learning, and group-level patterns continually shape and inform one another. Hover over the arrows and the purple oval for more!\ncycle\n\n\ngroup\n\nGroup-level\npatterns\n\n\n\nlearn\n\nLanguage\nlearning\n\n\n\ngroup-&gt;learn\n\n\n\n\n\n\n\n\nturn\n\n\nLifespan\ndevelopment?\n\n\n\n\n\n\nturn-&gt;anc_l\n\n\n\n\n\nturn-&gt;anc_r\n\n\n\n\n\nturn-&gt;anc_b\n\n\n\n\nindiv\n\nIndividual\nusage\n\n\n\nindiv-&gt;group\n\n\n\n\n\n\n\n\nlearn-&gt;indiv\n1 Beckner et al., 2009, Language Learning.\n2 Cain & Ryskin, 2025, Open Mind\n3 Cain, Smaldino, & Ryskin, 2026, Cultural Evolution Society."
+  },
+  {
+    "objectID": "projects.html#research-projects",
+    "href": "projects.html#research-projects",
+    "title": "Projects",
+    "section": "Research Projects",
+    "text": "Research Projects\nBelow are brief descriptions of my various research projects, along with a representative citation for the corresponding area. See my CV for the full citations.\n\n\nCommunication Across Generations\nUnder active development - check back later for updates!\n\n\n\nLifespan Learning and Cognitive Representations\nPatterns of language usage change over time, which means that the context in which words and constructions are experienced differ across an individual’s lifespan. This project investigates whether language users’ cognitive representations track these changes in lockstep, or instead retain traces of previous language usage patterns, and whether these dynamics explain any age-related differences in language processing.\n\nRepresentations of meaning\n\nCain, E., & Ryskin, R. (2025). Semantic representations are updated across the lifespan reflecting diachronic language change. Open Mind.\n\n\n\nRepresentations of structure\n\nCain, E., & Ryskin, R. (2024). Diachronic change in verb usage statistics predicts differences in sentence processing across the lifespan. Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics.\n\n\n\nPredictions\n\nChao, A., Cain, E., & Ryskin, R. (2025). Language experience and prediction across age groups: Evidence from diachronic fine-tuning of language models. Proceedings of the 47th Annual Meeting of the Cognitive Science Society.\n\n\n\n\n\nStability in Cultural Transmission\nHow do narrative structures change as they cross cultural boundaries? Real-world cross-cultural transmission is typically confounded with large-scale changes in cultural context, making it difficult to disentangle the mechanisms of cultural stability and change. This case study aims to separate the cumulative effects of repeated transmission from the stabilizing influence of shared cultural context.\n\nCain, E., Geballe, E., & Marghetis, T. (Preprint). A literary translation cycle disentangles transmission pressures from sociocultural changes in cultural evolution. PsyArXiv preprint.\n\n\n\n\nStatistical Learning\nInfants are though to aggregate statistical information across multiple naming events to resolve ambiguous word-referent mappings, which is often referred to as the cross-situational learning account. Laboratory demonstrations of this ability, however, may not reflect the ambiguity that is actually present in everyday learning environments. This project examines the ecological validity of cross-situational learning mechanisms using naturalistic parent-child interaction datasets, investigating whether the statistics present in real-world environments are sufficient to support word learning.\n\nCain, E., Ryskin, R., & Yu, C. (2025). Cross-situational statistics present in an early language learning context: Evidence from naturalistic parent–child interactions. Cognitive Science."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching\n\nKey: * Instructor of Record    † Teaching Assistant\n\n\nKenyon College\nFall 2026\n\nIntroduction to Programming *\nSpecial Topics: Introduction to Programming with AI *\n\n\nPlanned and Upcoming Courses\n\nComputers and Language *\nMinds and Machines *\nIntroduction to Population Simulations *\n\nPlease feel free to reach out if you’d like to see any of these syllabi!\n\n\n\n\nUniversity of California, Merced\nFall 2025\n\nIntroduction to Language and Linguistics †\n\nFall 2024\n\nResearch Methods in Psychology †\n\nSpring 2024\n\nLanguage in Minds, Brains, and Machines †\n\n2021–2022\n\nIntroduction to Cognitive Science †\n\n\n\n\nPedagogical Materials\nTextbook Chapters\n\nCo-authored the Word Embeddings chapter in the open-source Neural Networks and Cognitive Science textbook, and built an accompanying interactive teaching tool for word embeddings in SimBrain."
+  },
+  {
+    "objectID": "group.html",
+    "href": "group.html",
+    "title": "DAT Group",
+    "section": "",
+    "text": "Development Across Timescales (DAT) Research Group\n\n\n\nWhat do we do?\nIn the DAT research group, we use interdisciplinary approaches to understand development across multiple timescales, from in-the-moment adaptations in conversation, to language learning within the lifespan, and to cross-generational developments across generations.\n\n\n\nGroup Members\nDirector:\n\nEllis Cain, Ph.D.\n\nResearch Assistants\n\nInformation coming soon.\n\n\n\n\nJoin my Research Group!\nI am always happy to talk with students who are curious about the intersection of psychology and data science — whether that means studying how people think and learn, building tools to study cognition, or applying computational methods to behavioral data.\nNo prior research experience is required, though, due to the type of data that we collect and work with, programming skills are very beneficial.\n\n\n\n\n\n\nNoteNot actively recruiting\n\n\n\nI am not actively recruiting research assistants at the moment, but you are still welcome to contact me if you are interested!\n\n\nYou can email me at cain1 [at] kenyon.edu or fill out this interest survey form. See the research tab for what I’m working on."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ellis Cain",
+    "section": "",
+    "text": "Ellis Cain, Ph.D. \ncain1@kenyon.edu\n\n  \n\n\n\n\n\nAbout\nI am a Postdoctoral Fellow in the Interdisciplinary Program in Computing program at Kenyon College.\nHow do we learn and change across a lifespan? How does what individuals learn during their lifespan relate to what is passed down across generations? I study the relationship among language adaptation in the moment, cognitive development across the lifespan, and cultural transmission across generations. My work combines online and in-person behavioral experiments, computational modeling, and large-scale corpora analysis to better understand how individual minds both shape and are shaped by the broader communities that they belong to.\n\n\n\nAreas of Study\n\nLifespan Learning\nAging and Cognitive Development\nPsychology of Language\nCultural Transmission and Evolution"
+  }
+]

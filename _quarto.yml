@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+
+website:
+  title: "Ellis Cain"
+  site-url: "https://ellisc.dev"
+  description: "Ellis Cain, Ph.D. is a Postdoctoral Fellow in Computing at Kenyon College studying language, lifespan learning, and cultural transmission."
+  image: img/social-card.png
+  image-alt: "Ellis Cain, Ph.D., Postdoctoral Fellow, Computing, Kenyon College"
+  open-graph: true
+  twitter-card:
+    card-style: summary_large_image
+  favicon: img/favicon-32.png
+  page-footer:
+    left: "© 2026 Ellis Cain · Kenyon College"
+    right: "Built with [Quarto](https://quarto.org)"
+  navbar:
+    title: "Ellis Cain"
+    left:
+      - text: "About"
+        href: index.qmd
+      - text: "Research"
+        href: projects.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "DAT Group"
+        menu:
+          - text: "Overview"
+            href: group.qmd
+          - text: "Members"
+            href: group.qmd#group-members
+          - text: "Join"
+            href: group.qmd#join-my-research-group
+
+format:
+  html:
+    theme:
+      light: [readable, vars-light.scss, custom.scss]
+      dark: [darkly, vars-dark.scss, custom.scss]
+    include-in-header: favicon.html
+    include-after-body: diagram-tooltips.html
+    title-block-style: none
+    toc: false
+    anchor-sections: false

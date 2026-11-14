@@ -1,0 +1,94 @@
+---
+title: "Projects"
+toc: true
+toc-depth: 3
+---
+
+<h1>General framework</h1>
+
+My work builds on the view of language as a complex adaptive system^1^, in which individual language use, learning, and group-level patterns continually shape and inform one another. Hover over the arrows and the purple oval for more!
+
+```{dot}
+//| fig-width: 7
+//| fig-height: 4.2
+digraph cycle {
+  layout=neato
+  bgcolor="transparent"
+  node [shape=box, style="rounded,filled", fillcolor="#F3F7F7", color="#151538", penwidth=2,
+        fontname="Space Mono", fontsize=20, fontcolor="#151538", width=2.8, height=1.1, fixedsize=true]
+  edge [color="#3F7C7C", penwidth=5, arrowsize=1.2]
+
+  group  [label="Group-level\npatterns",   pos="3.5,3.2!"]
+  turn   [label="Lifespan\ndevelopment?", shape=ellipse, fillcolor="#CB8FDE", color="#151538", style="filled,dashed",
+          width=2.0, height=1.1, fontsize=17, pos="3.5,1.85!",
+          tooltip="How might lifespan development influence the connections in system? [2,3]"]
+  indiv  [label="Individual\nusage",        pos="0.7,0.9!"]
+  learn  [label="Language\nlearning",       pos="6.3,0.9!"]
+
+  // Invisible anchors at the midpoint of each arrow; the dashed connectors from the
+  // oval to these anchors are hidden until the oval is hovered (see diagram-tooltips.html)
+  anc_l [shape=point, style=invis, width=0.01, pos="2.1,2.05!"]
+  anc_r [shape=point, style=invis, width=0.01, pos="4.9,2.05!"]
+  anc_b [shape=point, style=invis, width=0.01, pos="3.5,0.9!"]
+  turn -> anc_l [style=dashed, color="#8F80FF", penwidth=4, arrowhead=none]
+  turn -> anc_r [style=dashed, color="#8F80FF", penwidth=4, arrowhead=none]
+  turn -> anc_b [style=dashed, color="#8F80FF", penwidth=4, arrowhead=none]
+
+  indiv -> group [tooltip="Individual language use accumulates to form group-level patterns."]
+  group -> learn [tooltip="Group-level patterns determine the input that learners are exposed to."]
+  learn -> indiv [tooltip="What people learn influences how they use language."]
+}
+```
+
+^1^ [Beckner et al., 2009, *Language Learning*.](https://doi.org/10.1111/j.1467-9922.2009.00533.x)
+
+^2^ [Cain & Ryskin, 2025, *Open Mind*](https://doi.org/10.1162/OPMI.a.315)
+
+^3^ [Cain, Smaldino, & Ryskin, 2026, *Cultural Evolution Society*.](pdf/cain_ces2026_abstract.pdf)
+
+---
+
+## Research Projects
+
+Below are brief descriptions of my various research projects, along with a representative citation for the corresponding area. See [my CV](cv.html) for the full citations.
+
+
+---
+
+### Communication Across Generations
+
+Under active development - check back later for updates!
+
+---
+
+### Lifespan Learning and Cognitive Representations
+
+Patterns of language usage change over time, which means that the context in which words and constructions are experienced differ across an individual's lifespan. This project investigates whether language users' cognitive representations track these changes in lockstep, or instead retain traces of previous language usage patterns, and whether these dynamics explain any age-related differences in language processing.
+
+#### Representations of meaning
+
+- Cain, E., & Ryskin, R. (2025). Semantic representations are updated across the lifespan reflecting diachronic language change. *Open Mind*.
+
+#### Representations of structure
+
+- Cain, E., & Ryskin, R. (2024). Diachronic change in verb usage statistics predicts differences in sentence processing across the lifespan. *Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics*.
+
+#### Predictions
+
+- Chao, A., Cain, E., & Ryskin, R. (2025). Language experience and prediction across age groups: Evidence from diachronic fine-tuning of language models. *Proceedings of the 47th Annual Meeting of the Cognitive Science Society*.
+
+---
+
+### Stability in Cultural Transmission
+
+How do narrative structures change as they cross cultural boundaries? Real-world cross-cultural transmission is typically confounded with large-scale changes in cultural context, making it difficult to disentangle the mechanisms of cultural stability and change. This case study aims to separate the cumulative effects of repeated transmission from the stabilizing influence of shared cultural context.
+
+- Cain, E., Geballe, E., & Marghetis, T. (Preprint). A literary translation cycle disentangles transmission pressures from sociocultural changes in cultural evolution. *PsyArXiv preprint*.
+
+---
+
+### Statistical Learning
+
+Infants are though to aggregate statistical information across multiple naming events to resolve ambiguous word-referent mappings, which is often referred to as the cross-situational learning account. Laboratory demonstrations of this ability, however, may not reflect the ambiguity that is actually present in everyday learning environments. This project examines the ecological validity of cross-situational learning mechanisms using naturalistic parent-child interaction datasets, investigating whether the statistics present in real-world environments are sufficient to support word learning.
+
+- Cain, E., Ryskin, R., & Yu, C. (2025). Cross-situational statistics present in an early language learning context: Evidence from naturalistic parent–child interactions. *Cognitive Science*.

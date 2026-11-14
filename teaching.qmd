@@ -1,0 +1,53 @@
+---
+title: "Teaching"
+toc: true
+toc-depth: 3
+---
+<h1>Teaching</h1>
+
+**Key:** \* Instructor of Record &nbsp;&nbsp; † Teaching Assistant
+
+---
+
+### Kenyon College
+
+**Fall 2026**
+
+- Introduction to Programming \*
+- Special Topics: Introduction to Programming with AI \*
+
+#### Planned and Upcoming Courses
+
+- Computers and Language \*
+- Minds and Machines \*
+- Introduction to Population Simulations \*
+
+*Please feel free to reach out if you'd like to see any of these syllabi!*
+
+---
+
+### University of California, Merced
+
+**Fall 2025**
+
+- Introduction to Language and Linguistics †<br>
+
+**Fall 2024**
+
+- Research Methods in Psychology †<br>
+
+**Spring 2024**
+
+- Language in Minds, Brains, and Machines †<br>
+
+**2021–2022**
+
+- Introduction to Cognitive Science †<br>
+
+---
+
+### Pedagogical Materials
+
+**Textbook Chapters**
+
+- Co-authored the Word Embeddings chapter in the open-source *[Neural Networks and Cognitive Science](https://github.com/simbrain/NeuralNetworksCogSciBook)* textbook, and built an accompanying interactive teaching tool for word embeddings in **[SimBrain](https://simbrain.net/)**.
