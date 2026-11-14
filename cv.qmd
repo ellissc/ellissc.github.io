@@ -1,0 +1,7 @@
+---
+title: "CV"
+resources:
+  - pdf/cain_cv.pdf
+---
+
+{{< pdf pdf/cain_cv.pdf renderer=pdfjs width=100% height=750 button="Download CV (PDF)" >}}
