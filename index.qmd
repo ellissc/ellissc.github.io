@@ -32,7 +32,7 @@ image-alt: "Ellis Cain, Ph.D., Postdoctoral Fellow, Computing, Kenyon College"
 ### About
 
 
-I am a Postdoctoral Fellow in the [Interdisciplinary Program in Computing program](https://www.kenyon.edu/academics/departments-and-majors/computing/) at Kenyon College.
+I am a Postdoctoral Fellow in the [Interdisciplinary Program in Computing](https://www.kenyon.edu/academics/departments-and-majors/computing/) at Kenyon College.
 
 How do we learn and change across a lifespan? How does what individuals learn during their lifespan relate to what is passed down across generations? I study the relationship among language adaptation in the moment, cognitive development across the lifespan, and cultural transmission across generations. My work combines online and in-person behavioral experiments, computational modeling, and large-scale corpora analysis to better understand how individual minds both shape and are shaped by the broader communities that they belong to.
 
